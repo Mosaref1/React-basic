@@ -1,0 +1,13 @@
+h1{
+    font-weight: 900;
+    font-size: 46px;
+}
+input{
+    width: 90%;
+}
+.mp-row{
+    margin: 10px 5px;
+}
+.mp-btn{
+    width: 80px;
+}
